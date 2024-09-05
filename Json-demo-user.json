@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "name": "Kris",
+    "role": "admin",
+    "gender": "male",
+    "nationality": "Singapore"
+  },
+  {
+    "id": 1,
+    "name": "bao",
+    "role": "leader",
+    "gender": "male",
+    "nationality": "vietnam"
+  },
+  {
+    "id": 4,
+    "name": "truong",
+    "role": "student",
+    "gender": "male",
+    "nationality": "Việt Nam"
+  }
+]
