@@ -1,0 +1,20 @@
+file: file1.json
+NOK
+file: file3.json
+NOK
+file: file5.json
+NOK
+file: file2.json
+OK
+file: file4.json
+OK
+file: file6.json
+OK
+file: file7.json
+NOK
+file: file9.json
+NOK
+file: file8.json
+OK
+file: file10.json
+OK
